@@ -65,7 +65,7 @@
 				<figure>
 					<img src="mini-figure.png" alt="Lego Original Figure" width="176px" height="285px">
 					<figcaption>
-						Mini figure by Vanja (Public Domain) https://openclipart.org/detail/224315/clip-is-a-brick-minifig-4"
+						Mini figure by Vanja (Public Domain)"
 					</figcaption>
 				</figure>
 <!-- STEP 1: Insert an IMG element with the src attribute pointing to the image called "mini-figure" in the 'images' directory -->
